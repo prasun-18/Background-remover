@@ -28,21 +28,21 @@ learning model.
 ------------------------------------------------------------------------
 
 ##  Project Structure
-
+```
  ├── app.py
  ├── requirements.txt 
  ├── README.md
-
+```
 ------------------------------------------------------------------------
 
 ##  Requirements
-
-streamlit\
-Pillow\
-rembg[gpu]\
+```
+streamlit
+Pillow
+rembg[gpu]
 rembg[cpu]
-
-Use either GPU or CPU version, not both. Here we are using `rembg[gpu] `
+```
+- Use either GPU or CPU version, not both. Here we are using `rembg[gpu] `
 
 ------------------------------------------------------------------------
 
