@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 from rembg import remove
 
-st.title("Background Remover")
+st.title("AI Background Remover")
 
 uploaded_file = st.file_uploader("Upload your Image", type=["png", "jpg", "jpeg"])
 
